@@ -1,0 +1,46 @@
+{
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "resume": "Resume",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "welcome_message": "Emmanuel García",
+    "subtitle": "Software Development and Management Technician",
+    "about_me_section": "About Me",
+    "about_me_content": "Hello, I am Emmanuel. A 22-year-old student of Software Development and Management Engineering at the Universidad Tecnológica de Escuinapa...",
+    "personal_info": "Personal Info",
+    "interests": "Interests",
+    "download_cv": "Download CV",
+    "technical_skills": "Technical Skills",
+    "professional_skills": "Professional Skills",
+    "education_section": "Education",
+    "portfolio_section": "Portfolio",
+    "contact_section": "Contact",
+    "send_message": "Send Message",
+    "placeholder_name": "Your Name",
+    "placeholder_phone": "Phone Number",
+    "placeholder_email": "Email Address",
+    "placeholder_subject": "Subject",
+    "placeholder_message": "Message",
+    "education": [
+        {
+            "title": "Fisheries Technician #8",
+            "school": "Fisheries Technician High School #8",
+            "date": "2014 - 2017",
+            "description": "During my years at the Fisheries Technician High School #8, I acquired a solid technical education in areas related to fishing and navigation..."
+        },
+        {
+            "title": "Naval Mechanics",
+            "school": "Centro de Estudios Tecnológicos del Mar #23",
+            "date": "2017 - 2020",
+            "description": "During my studies at the Centro de Estudios Tecnológicos del Mar #23, I specialized in Naval Mechanics..."
+        },
+        {
+            "title": "Software Development and Management",
+            "school": "Universidad Tecnológica de Escuinapa",
+            "date": "2021 - 2025",
+            "description": "Currently, I am pursuing a degree in Software Development and Management at the Universidad Tecnológica de Escuinapa..."
+        }
+    ]
+}

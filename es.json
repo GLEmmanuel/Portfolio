@@ -1,0 +1,46 @@
+{
+    "home": "Inicio",
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "resume": "Currículum",
+    "portfolio": "Portafolio",
+    "contact": "Contacto",
+    "welcome_message": "Emmanuel García",
+    "subtitle": "Técnico en Desarrollo y Gestión de Software",
+    "about_me_section": "Sobre Mí",
+    "about_me_content": "Hola, soy Emmanuel. Un estudiante de 22 años de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Escuinapa...",
+    "personal_info": "Información Personal",
+    "interests": "Intereses",
+    "download_cv": "Descargar CV",
+    "technical_skills": "Habilidades Técnicas",
+    "professional_skills": "Habilidades Profesionales",
+    "education_section": "Educación",
+    "portfolio_section": "Portafolio",
+    "contact_section": "Contacto",
+    "send_message": "Enviar Mensaje",
+    "placeholder_name": "Tu Nombre",
+    "placeholder_phone": "Número de Teléfono",
+    "placeholder_email": "Dirección de Correo",
+    "placeholder_subject": "Tema",
+    "placeholder_message": "Mensaje",
+    "education": [
+        {
+            "title": "Técnica Pesquera #8",
+            "school": "Secundaria Técnica Pesquera #8",
+            "date": "2014 - 2017",
+            "description": "Durante mis años en la Secundaria Técnica Pesquera #8, adquirí una sólida formación técnica en áreas relacionadas con la pesca y la navegación..."
+        },
+        {
+            "title": "Mecánica Naval",
+            "school": "Centro de Estudios Tecnológicos del Mar #23",
+            "date": "2017 - 2020",
+            "description": "Durante mis estudios en el Centro de Estudios Tecnológicos del Mar #23, me especialicé en Mecánica Naval..."
+        },
+        {
+            "title": "Desarrollo y Gestión de Software",
+            "school": "Universidad Tecnológica de Escuinapa",
+            "date": "2021 - 2025",
+            "description": "Actualmente, estoy cursando la carrera de Desarrollo y Gestión de Software en la Universidad Tecnológica de Escuinapa..."
+        }
+    ]
+}
